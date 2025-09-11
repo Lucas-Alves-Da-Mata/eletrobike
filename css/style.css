@@ -1,4 +1,8 @@
 @import"./global/global.css";
 @import"global/utilidades";
-@import"global/header.css";
 @import"global/cores.css";
+@import"global/animacao.css";
+
+@import"global/header.css";
+
+@import"utilidades/componentes.css";
