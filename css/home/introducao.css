@@ -1,12 +1,12 @@
 .introducao-bg {
-    background: var(--cor-12) url("../img/dec/bottom-left.svg"));
+    background: var(--cor-12) url("../img/dec/bottom-left.svg");
     box-shadow: inset 0 -120px var(--cor-0);
 }
 
 .intoducao {
 display: grid;
 grid-template-columns: 1fr 1fr;
-gap: 0px 40px;
+    gap: 0px 40px;
 }
 
 .introducao-conteudo {
